@@ -1,0 +1,7 @@
+gunicorn==20.1.0
+python-dotenv==0.19.2
+python-http-client==3.3.5
+sendgrid==6.9.4
+starkbank-ecdsa==2.0.3
+Flask
+flask
